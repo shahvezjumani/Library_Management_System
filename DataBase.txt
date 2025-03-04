@@ -1,0 +1,9 @@
+Database name : LibraryManagement
+Table 1 : user
+(name,password,email)
+Table 2 : book
+(id,name,author,quantity)
+Table 3 : student
+(id,name,contact,address)
+Table 4 : issuebook
+(id,book_id,book_name,student_idstudent_name,issue_date,due_date,status)
